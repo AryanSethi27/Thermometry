@@ -1,2 +1,2 @@
 # Thermometry-in-C-
-Create your own scale for measurement XYZ (like: fahrenheit, celcius, Kelving) using 2 info - [Freezing Pt, Boiling Pt]]
+![P](https://user-images.githubusercontent.com/29266591/79723352-3b39b680-8303-11ea-9ebf-47f053893a84.png)
