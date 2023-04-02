@@ -2,7 +2,7 @@
 echo "Do you have MinGW for compilation of CPP file into Machine code.(y/n)"
 read userInput
 if [ "$userInput" = 'y' ]; then
-    echo "converting our core file to machine code..."
+    echo "progressing...."
         g++ thermometry.cpp -o thermometry
         echo "Executing code..."
         start thermometry.exe
